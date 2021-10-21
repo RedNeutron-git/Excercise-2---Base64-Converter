@@ -1,5 +1,6 @@
 # Desclaimer
 I made this script not for business purpose, just an excercise. This script was inspired by Base64Decode https://www.base64decode.org/ and https://www.base64encode.org/
+
 Feel free, if you need it and modify it, cheers!
 
 # Example
